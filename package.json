@@ -17,11 +17,8 @@
     "calculator",
     "walthrough"
   ],
-  "author": "Kyle Espinola",
+  "author": "Gabe Harms",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ksespinola/react-redux-calculator/issues"
-  },
   "homepage": "https://github.com/ksespinola/react-redux-calculator#readme",
   "devDependencies": {
     "autoprefixer-core": "^6.0.1",
